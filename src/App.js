@@ -5,16 +5,16 @@ function App() {
   return (
     <div className="App">
       <h1>
-        "CS 230L"
+        CS 230L
       </h1>
       <h2>
-        "Section -003"
+        Section -- 003
       </h2>
       <p>
-        "WVU ID 800283624"
+        WVU ID 800283624
       </p>
       <p>
-        "Hi I am Carson Verlinden"
+        Hi I am Carson Verlinden
       </p>
     </div>
   );
